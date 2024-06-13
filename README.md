@@ -7,7 +7,7 @@
 
 <h1 align ="center"><img src="https://readme-typing-svg.herokuapp.com?color=F778A1&width=350&lines=✨+🦋˹𝐍𝐎𝐁𝐈𝐓𝐀+✘+𝐒𝐏𝐀𝐌˼+🖤+🥀"></b></h1>
 
-<p align="center"><a href="https://t.me/BTW_AYU_0"><img src="https://telegra.ph/file/b8361901bbe504febc77d.jpg" width="300"></a></p>
+<p align="center"><a href="https://t.me/BTW_AYU_0"><img src="https://telegra.ph/file/b8361901bbe504febc77d.jpg" width="100"></a></p>
 
 
 <h1 align="center"><b>[✨🥀] ˹ℕ𝕆𝔹𝕀𝕋𝔸 ꭙ 𝕊ℙ𝔸𝕄 ˼🫧 [✨🥀]</b></h1>
