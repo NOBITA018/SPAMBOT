@@ -6,6 +6,10 @@
  -->    <img align="middle" src="https://profile-counter.glitch.me/doraemon890/count.svg" />
 
 <h1 align ="center"><img src="https://readme-typing-svg.herokuapp.com?color=F778A1&width=350&lines=✨+🦋˹𝐍𝐎𝐁𝐈𝐓𝐀+✘+𝐒𝐏𝐀𝐌˼+🖤+🥀"></b></h1>
+
+<p align="center"><a href="https://t.me/BTW_AYU_0"><img src="https://telegra.ph/file/b8361901bbe504febc77d.jpg" width="300"></a></p>
+
+
 <h1 align="center"><b>[✨🥀] ˹ℕ𝕆𝔹𝕀𝕋𝔸 ꭙ 𝕊ℙ𝔸𝕄 ˼🫧 [✨🥀]</b></h1>
 
 <h4 align="center">𝖭𝖮𝖡𝖨𝖳𝖠_𝖲𝖯𝖠𝖬_𝖡𝖮𝖳 𝖳𝖧𝖠𝖭𝖪𝖲 𝖥𝖮𝖱 𝖶𝖠𝖳𝖢𝖧𝖨𝖭𝖦 𝖳𝖧𝖤 𝖱𝖤𝖯𝖮 </h4>
