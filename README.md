@@ -1,16 +1,16 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h3><img  style="align-item" :"center" src="https://telegra.ph/file/8b435fd55739de251880e.jpg" width="80px" height="70%"><img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=620&lines=✨+🦋+𝐇𝐄𝐘+𝐓𝐇𝐄𝐑𝐄+𝐓𝐇𝐈𝐒+𝐈𝐒+𝐕𝐈𝐏+NOBITA+𝐗𝐃+🖤+🥀"></b></h3>
+<h3><img  style="align-item" :"center" src="https://telegra.ph/file/f3a116e01f6ac8f3b8dbe.jpg" width="80px" height="70%"><img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=620&lines=✨+🦋+𝐇𝐄𝐘+𝐓𝐇𝐄𝐑𝐄+𝐓𝐇𝐈𝐒+𝐈𝐒+𝐕𝐈𝐏+NOBITA+𝐗𝐃+🖤+🥀"></b></h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
  -->    <img align="middle" src="https://profile-counter.glitch.me/doraemon890/count.svg" />
 
-<h1 align ="center"><img src="https://readme-typing-svg.herokuapp.com?color=F778A1&width=350&lines=✨+🦋˹SIKKU+✘+𝙼ᴜsɪᴄ˼+🖤+🥀"></b></h1>
+<h1 align ="center"><img src="https://readme-typing-svg.herokuapp.com?color=F778A1&width=350&lines=✨+🦋˹𝐍𝐎𝐁𝐈𝐓𝐀+✘+𝐒𝐏𝐀𝐌˼+🖤+🥀"></b></h1>
 <h1 align="center"><b>[✨🥀] ˹ℕ𝕆𝔹𝕀𝕋𝔸 ꭙ 𝕊ℙ𝔸𝕄 ˼🫧 [✨🥀]</b></h1>
 
 <h4 align="center">𝖭𝖮𝖡𝖨𝖳𝖠_𝖲𝖯𝖠𝖬_𝖡𝖮𝖳 𝖳𝖧𝖠𝖭𝖪𝖲 𝖥𝖮𝖱 𝖶𝖠𝖳𝖢𝖧𝖨𝖭𝖦 𝖳𝖧𝖤 𝖱𝖤𝖯𝖮 </h4>
 
-[<img src="https://telegra.ph/file/a2266a3a5d010292cc320.jpg"/>]
+[<img src="https://telegra.ph/file/d2b05119e7c17a186aaf3.jpg"/>]
 
 > ⭐️ Thanks to everyone for using this op ˹ℕ𝕆𝔹𝕀𝕋𝔸 ꭙ 𝕊ℙ𝔸𝕄 ˼🫧. That is the greatest pleasure we have !
 
