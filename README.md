@@ -37,10 +37,9 @@
 
 <a herf="https://t.me/+7_KPkFr0YWllMmZl"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 
-</details>
-<img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=620&lines=<summary><b>how to use the repo</b></summary>
+<summary><b>how to use the repo</b></summary>
 <br>
- 𝙵𝙸𝚁𝚂𝚃 𝚈𝚄𝚄 𝙹𝙾𝙸𝙽 𝚃𝙷𝙴 𝙶𝚁𝙾𝚄𝙿 🤗 
+<img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=620&lines= 𝙵𝙸𝚁𝚂𝚃 𝚈𝚄𝚄 𝙹𝙾𝙸𝙽 𝚃𝙷𝙴 𝙶𝚁𝙾𝚄𝙿 🤗 
 2 𝚂𝙴𝙲𝙾𝙽𝙳 𝙵𝙾𝚁𝙺 𝚃𝙷𝙴 𝚁𝙴𝙿𝙾💕💫
 3 𝚃𝙷𝙸𝚁𝙳 𝙲𝙷𝙴𝙺 𝚃𝙷𝙴 𝙳𝙴𝙿𝙻𝙾𝚈 𝙱𝚄𝚃𝚃𝙾𝙽 𝙰𝙽𝙳 𝙴𝙳𝙸𝚃 𝚃𝙷𝙴 𝙳𝙴𝙿𝙻𝙾𝚈 𝙱𝚄𝚃𝚃𝙾𝙽"<a 𝙰𝙿𝙽𝙰 𝙻𝙰𝙶𝙰 𝙻𝙴𝙽𝙰 𝙱𝙰𝙷𝙸𝚈𝙰 𝙾𝚁 𝚄𝙽𝙺𝙸 𝙱𝙰𝙷𝙽𝙴𝙾 😂💕
 4𝙵𝙾𝚄𝚁𝚃𝙷 𝚈𝙴 𝚂𝙰𝙱 𝚁𝙴𝙳𝙴𝙴𝙼.𝙼𝙳 𝙼𝙴 𝙷𝙴 👍🥀 
