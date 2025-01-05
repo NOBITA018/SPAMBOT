@@ -14,7 +14,7 @@ HELP_BUTTON = [
       Button.inline("★𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦★", data="extra")
     ],
     [
-      Button.url("★𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥★", "https://t.me/NOBITA_PROFESY"),
+      Button.url("★𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥★", "https://t.me/NOBI4TA"),
       Button.url("★𝗦𝗨𝗣𝗣𝗢𝗥𝗧★", "https://t.me/+7_KPkFr0YWllMmZl")
     ],
   [   
@@ -67,7 +67,7 @@ extra_msg = f"""
 💖 𝗔𝗯𝘂𝘀𝗲𝗦𝗽𝗮𝗺: **🌺ᴏɴᴇ ᴡᴏʀᴅ ʙɪɢ ɢᴀᴀʟɪ sᴘᴀᴍ🌺**
   1) {hl}𝚊𝚋𝚞𝚜𝚎 <𝚌𝚘𝚞𝚗𝚝> <𝚞𝚜𝚎𝚛𝚗𝚊𝚖𝚎>
   
-**© ˹@ANINE_HU_BABY˼🫧**
+**© ˹@NOBI4TA˼🫧**
 """
 
 
@@ -105,7 +105,7 @@ yash_msg = f"""
 
 
 
-**© ˹@ANINE_HU_BABY˼🫧**💘
+**© ˹@NOBI4TA˼🫧**💘
 """
 
                  
@@ -136,7 +136,7 @@ raid_msg = f"""
   1) {hl} 𝐂𝐑𝐀𝐈𝐃 < 𝐂𝐎𝐔𝐍𝐓 > < 𝐔𝐒𝐄𝐑𝐍𝐀𝐌𝐄 >
   2) {hl} 𝐂𝐑𝐀𝐈𝐃 < 𝐂𝐎𝐔𝐍𝐓 > <𝐑𝐄𝐏𝐋𝐘 𝐓𝐎 𝐀 𝐔𝐒𝐄𝐑 >
 
-**© ˹@ANINE_HU_BABY˼🫧**💘
+**© ˹@NOBI4TA˼🫧**💘
 """
 
 spam_msg = f"""
@@ -153,7 +153,7 @@ spam_msg = f"""
   1) {hl}𝐇𝐀𝐍𝐆 < 𝐂𝐎𝐔𝐍𝐓𝐄𝐑 >
 
 
-** © ˹@ANINE_HU_BABY˼🫧**
+** © ˹@NOBI4TA˼🫧**
 """                     
            
            
@@ -181,13 +181,13 @@ async def helpback(event):
                 Button.inline("★𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦★", data="extra")
               ],
               [
-                Button.url("★𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥★", "https://t.me/NOBITA_PROFESY"),
+                Button.url("★𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥★", "https://t.me/NOBI4TA"),
                 Button.url("★𝗦𝗨𝗣𝗣𝗢𝗥𝗧★", "https://t.me/+7_KPkFr0YWllMmZl")
               ]
             ]
           )
     else:
-        await event.answer("★𝐏𝐋𝐄𝐀𝐒𝐄 𝐉𝐎𝐈𝐍 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐆𝐑𝐎𝐔𝐏 𝐀𝐍𝐃 𝐓𝐀𝐆 @JUST_ME_NOBITA AND @BTW_AYU_0★" , cache_time=0, alert=True)
+        await event.answer("★𝐏𝐋𝐄𝐀𝐒𝐄 𝐉𝐎𝐈𝐍 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐆𝐑𝐎𝐔𝐏 𝐀𝐍𝐃 𝐓𝐀𝐆 @JUST_ME_NOBITA AND @NOBI4TA★" , cache_time=0, alert=True)
 
 
 @X1.on(events.CallbackQuery(pattern=r"spam"))
@@ -206,7 +206,7 @@ async def help_spam(event):
               buttons=[[Button.inline("< Back", data="help_back"),],],
               ) 
     else:
-        await event.answer("★𝐏𝐋𝐄𝐀𝐒𝐄 𝐉𝐎𝐈𝐍 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐆𝐑𝐎𝐔𝐏 𝐀𝐍𝐃 𝐓𝐀𝐆 @JUST_ME_NOBITA AND @BTW_AYU_0★", cache_time=0, alert=True)
+        await event.answer("★𝐏𝐋𝐄𝐀𝐒𝐄 𝐉𝐎𝐈𝐍 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐆𝐑𝐎𝐔𝐏 𝐀𝐍𝐃 𝐓𝐀𝐆 @JUST_ME_NOBITA AND @NOBI4TA★", cache_time=0, alert=True)
 
 
 @X1.on(events.CallbackQuery(pattern=r"raid"))
@@ -225,7 +225,7 @@ async def help_raid(event):
             buttons=[[Button.inline("< Back", data="help_back"),],],
           )
     else:
-        await event.answer("★𝐏𝐋𝐄𝐀𝐒𝐄 𝐉𝐎𝐈𝐍 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐆𝐑𝐎𝐔𝐏 𝐀𝐍𝐃 𝐓𝐀𝐆 @JUST_ME_NOBITA AND BTW_AYU_0★", cache_time=0, alert=True)
+        await event.answer("★𝐏𝐋𝐄𝐀𝐒𝐄 𝐉𝐎𝐈𝐍 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐆𝐑𝐎𝐔𝐏 𝐀𝐍𝐃 𝐓𝐀𝐆 @JUST_ME_NOBITA AND NOBI4TA★", cache_time=0, alert=True)
 
 
 @X1.on(events.CallbackQuery(pattern=r"extra"))
@@ -244,7 +244,7 @@ async def help_extra(event):
             buttons=[[Button.inline("< Back", data="help_back"),],],
             )
     else:
-        await event.answer("★𝐏𝐋𝐄𝐀𝐒𝐄 𝐉𝐎𝐈𝐍 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐆𝐑𝐎𝐔𝐏 𝐀𝐍𝐃 𝐓𝐀𝐆 @JUST_ME_NOBITA AND @BTW_AYU_0★", cache_time=0, alert=True)
+        await event.answer("★𝐏𝐋𝐄𝐀𝐒𝐄 𝐉𝐎𝐈𝐍 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐆𝐑𝐎𝐔𝐏 𝐀𝐍𝐃 𝐓𝐀𝐆 @JUST_ME_NOBITA AND @NOBI4TA★", cache_time=0, alert=True)
         
 
 @X1.on(events.CallbackQuery(pattern=r"yash"))
@@ -263,5 +263,5 @@ async def help_yash(event):
              buttons=[[Button.inline("< Back", data="help_back"),],],
              )
      else:
-         await event.answer("★𝐏𝐋𝐄𝐀𝐒𝐄 𝐉𝐎𝐈𝐍 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐆𝐑𝐎𝐔𝐏 𝐀𝐍𝐃 𝐓𝐀𝐆 @JUST_ME_NOBITA AND @BTW_AYU_0★", cache_time=0, alert=True)
+         await event.answer("★𝐏𝐋𝐄𝐀𝐒𝐄 𝐉𝐎𝐈𝐍 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐆𝐑𝐎𝐔𝐏 𝐀𝐍𝐃 𝐓𝐀𝐆 @JUST_ME_NOBITA AND @NOBI4TA★", cache_time=0, alert=True)
 
