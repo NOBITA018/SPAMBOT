@@ -21,7 +21,7 @@ from datetime import datetime
 async def ping(e):
     if e.sender_id in SUDO_USERS:
         start = datetime.now()
-        jarvis = await e.reply(f"𝕆𝕩𝕪𝕘𝕖𝕟 ꭙ 𝕊𝕡𝕒𝕞🫧")
+        jarvis = await e.reply(f"ℕ𝕆𝔹𝕀𝕋𝔸 ꭙ 𝕊𝕡𝕒𝕞🫧")
         end = datetime.now()
         mp = (end - start).microseconds / 1000
         await jarvis.edit(f"ℕ𝕆𝔹𝕀𝕋𝔸 ꭙ 𝕊ℙ𝔸𝕄 🫧\n» `{mp} ᴍꜱ`")
